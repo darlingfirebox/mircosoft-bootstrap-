@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	border: none;
+	outline: none;
+	font-family: "微软雅黑";
+	font-size: 12px;
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+.clearfix {
+	overflow: auto;
+	_height: 1%
+}
+
